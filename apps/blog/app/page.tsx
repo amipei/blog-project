@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-export default function Home() {
+export default function App() {
   return (
     <div>
-2
+      主要的
     </div>
   )
 }
